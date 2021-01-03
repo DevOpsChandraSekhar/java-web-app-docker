@@ -13,7 +13,7 @@
   3. Visit for more updates on 
      *https://csrklive.blogpsot.com  and click on 
 	 
-# Get Notified via Email section if You use above link
+# Get Notified via Email section if you use above link
 
 
 	 
