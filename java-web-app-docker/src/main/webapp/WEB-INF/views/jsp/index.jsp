@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To DevOps CSRK.</h2>
-			<h3>Bangalore & Hyderabad</h3>
+			<h3>Bangalore </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Chandrasekhar</p>
 	</footer>
 </div>
 
